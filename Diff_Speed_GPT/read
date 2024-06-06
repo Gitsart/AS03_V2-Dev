@@ -1,0 +1,2 @@
+The program is for controlling a stepper motor using arduino based on the inputs from an HMI device. The HMI will have different preset buttons that will denotes and corresponding to the speed of the stepper revolution. Based on the speed input in RPM, the stepper will continuously oscillate clockwise and anticlockwise , between a target position-0 -(-target position);
+The speed for clockwise oscillaion(forward) is set using HMI. The Reverse speed is much higher and can be passedthrough the program only.
